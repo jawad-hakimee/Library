@@ -1,0 +1,51 @@
+h1{
+    color: black;
+}
+body {
+    background-color: aquamarine;
+}
+#pic{
+   width: 50%;
+   height: 50vh;
+    border-radius: 20px;
+    cursor:pointer;
+    background-position: cover;
+}
+div{
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#bar{
+    width: 30px;
+    height: 30px;
+    position: absolute; 
+    right: 0;
+    top: 0;
+    
+}
+#ul {
+    list-style: none;
+    position: absolute;
+    top: 20%;
+    right: 10%;
+}
+a img{
+    width: 30px;
+    height: 30px;
+}
+ul li{
+    margin-top: 30px;
+}
+ul li a{
+    
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    
+}
+
+
